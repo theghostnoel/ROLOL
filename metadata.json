@@ -1,0 +1,6 @@
+{
+  "name": "Công Cụ Lọc Trùng Link Facebook",
+  "description": "Lọc và tìm kiếm link Facebook mới từ Nguồn 2 chưa từng có trong Google Sheet Nguồn 1 với thuật toán chuẩn hóa link thông minh và tốc độ cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
